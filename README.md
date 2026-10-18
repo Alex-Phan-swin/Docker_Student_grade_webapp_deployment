@@ -2,7 +2,6 @@
 
 A simple Flask web application for calculating student grades. The application is containerized using Docker.
 
-Public Accessible IP Address: http://13.239.58.11:5000/ 
 
 ## Project Structure
 
